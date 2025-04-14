@@ -17,6 +17,23 @@ Flyte, a key product of Finnova, offers a seamless and intuitive experience for 
 - 🌐 Real-time data updates
 - 📤 Deployed on Render for both frontend and backend
 
+
+
+
+## 🧪 Product Highlight – Flyte
+Flyte is an analytical dashboard designed to help users visualize their investments and interactions using real-time charts and tables. Built using React and Chart.js.
+
+
+Live Link:https://finnova-dashboard.onrender.com
+## 📸 Preview
+
+
+---
+
+
+
+
+
 ## 🛠️ Tech Stack
 
 | Area        | Tech Used                   |
