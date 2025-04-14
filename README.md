@@ -18,6 +18,16 @@ Finnova is a modern online investment platform inspired by Zerodha. It allows us
 - 📤 Deployed on Render for both frontend and backend
 
 
+---
+
+## 📸 Preview
+Live Demos: https://finnova.onrender.com/
+<br>
+
+![Finnova Preview](Finnova.png)
+
+
+---
 
 
 ## 🧪 Product Highlight – Flyte
@@ -59,11 +69,6 @@ Finnova/
 ├── dashboard/      # Admin dashboard React app
 ```
 
-## 📸 Preview
-Live Demos: https://finnova.onrender.com/
-<br>
-
-![Finnova Preview](Finnova.png)
 
 ## 📦 Getting Started
 
