@@ -28,6 +28,7 @@ Flyte is an analytical dashboard designed to help users visualize their investme
 Live Link:https://finnova-dashboard.onrender.com
 ## 📸 Preview
 <br>
+
 ![Finnova Preview](dashboard.png)
 
 
