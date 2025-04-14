@@ -60,6 +60,7 @@ Finnova/
 ## 📸 Preview
 Live Demos:
 https://finnova.onrender.com/
+![Finnova Preview](Finnova.png)
 
 ## 📦 Getting Started
 
