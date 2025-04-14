@@ -6,7 +6,7 @@ Finnova is a modern online investment platform inspired by Zerodha. It allows us
 - **Backend** – RESTful API for user authentication and investment data
 - **Dashboard** – Admin dashboard for managing users and insights
 
-Flyte, a key product of Finnova, offers a seamless and intuitive experience for investment tracking and management.
+
 
 ## 🚀 Features
 
@@ -21,6 +21,7 @@ Flyte, a key product of Finnova, offers a seamless and intuitive experience for 
 
 
 ## 🧪 Product Highlight – Flyte
+Flyte, a key product of Finnova, offers a seamless and intuitive experience for investment tracking and management.
 Flyte is an analytical dashboard designed to help users visualize their investments and interactions using real-time charts and tables. Built using React and Chart.js.
 
 
@@ -44,6 +45,7 @@ Live Link:https://finnova-dashboard.onrender.com
 | Deployment  | Render, GitHub              |
 | Auth/Security | bcrypt, jsonwebtoken     |
 | Charts      | Chart.js                    |
+| Testing     | Jest, Supertest             |
 
 ## 📂 Folder Structure
 
